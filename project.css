@@ -1,3 +1,7 @@
+*{
+    background: #b15454;
+}
+
 .header{
     /* color: aliceblue; */
     height: 300px;
@@ -69,7 +73,7 @@ section{
     border: 2px solid brown;
     text-align: center;
     margin: 0px 40%;
-    background: rgb(172, 155, 61);
+    background: #000;
 
     border-radius: 40px 10px;
 
